@@ -9,3 +9,6 @@ Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 * File:`pandas_2_25b2110.ipynb`
 * File:`pandas_3_25b2110.ipynb`
 * File:`pandas_4_25b2110.ipynb`
+* ## 📅 Week 2: Pandas Data Handling
+* I completed the crash course for Machine-Learning and understood the behaviour of a model.
+* In intro to NLP, learned to cleanup the text,concept of vectorisation,model training and evaluatiom
